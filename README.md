@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DaBestestMastaCoda
-- 👀 I’m interested in codong
-- 🌱 I’m currently learning cobol
+- 👀 I’m interested in nothink
+- 🌱 I’m currently learning cobol and C
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me look
-- 😄 Pronouns: "U never learn."
+- 📫 How to reach me look at my profile
+- 😄 Pronouns: "You never learn."
 - ⚡ Fun fact: "Nothing is funny."
 
 <!---
